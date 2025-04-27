@@ -152,7 +152,7 @@ const Home = () => {
           <div>
             📸{" "}
             <a
-              href="https://instagram.com/molika"
+              href="https://instagram.com"
               className="text-indigo-600"
               target="_blank"
               rel="noopener noreferrer"
@@ -169,7 +169,7 @@ const Home = () => {
           <div>
             📘{" "}
             <a
-              href="https://facebook.com/likablock"
+              href="https://facebook.com"
               className="text-indigo-600"
               target="_blank"
               rel="noopener noreferrer"
